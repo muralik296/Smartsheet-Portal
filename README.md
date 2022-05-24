@@ -22,7 +22,7 @@ After logging in, you are brought to below welcome screen, on the nav bar you ha
 ![2](https://user-images.githubusercontent.com/79444187/170002217-a99514ba-79ac-4165-9824-df12c78f60b9.png)
 
 
--Quote previewer, for the sales and marketing departments, using it to create and modify their quote while working on it. The data is picked up from Smartsheets and gives the user a previewer of data from a certain sheet and allows them to view/edit the row they are working on.
+- Quote previewer, for the sales and marketing departments, using it to create and modify their quote while working on it. The data is picked up from Smartsheets and gives the user a previewer of data from a certain sheet and allows them to view/edit the row they are working on.
 
 
 ![3](https://user-images.githubusercontent.com/79444187/170006114-8a58fa36-c147-4d0d-9adb-4f816f700214.png)
